@@ -18,3 +18,11 @@ This project aims to segment customers using the Mall Customers dataset based on
   - `cluster` and `factoextra` for clustering and visualizing results
   - `NbClust` for optimal cluster evaluation
   - `purrr` for functional programming utilities
+ 
+## How to Run the Project
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/sreshtachelumala/mall-customer-segmentation.git
+ 
+## Conclusion
+This project provides a comprehensive approach to segmenting customers based on their attributes, helping businesses identify distinct customer groups and design targeted strategies for each segment.
